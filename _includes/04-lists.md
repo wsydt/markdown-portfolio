@@ -1,1 +1,16 @@
-Replace this with a list of your favorite things.
+:heart::heart::heart::heart::heart::heart::heart:
+1. 最向往的地方
+2. 交换余生
+    1. 交换余生
+3. 幸存者
+4. 最好是
+5. 离开的那一些
+6. 暂时的记号
+
+* 起床
+  * 刷牙
+  * 穿衣
+* 吃饭
+* 睡觉
+* 追剧
+* 玩游戏
