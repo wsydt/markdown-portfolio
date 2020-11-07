@@ -1,1 +1,13 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_italic text style 1_
+
+*italic text style 2*
+
+**bold text style 1**
+
+__bold text style 2__
+
+_italic :couplekiss: text **bold text** style_
+
+**bold text _italic_**
+
+__style *iii*__
